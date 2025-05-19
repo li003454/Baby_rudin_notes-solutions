@@ -28,9 +28,3 @@ This repository is mainly for my personal learning, but if you find mistakes or 
 
 ## Disclaimer
 These solutions are my own work and may contain errors. They are intended for learning purposes and not as a replacement for working through the problems independently.
-
----
-
-**Stay tuned for updates!** 🚀
-
-
